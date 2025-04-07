@@ -70,17 +70,17 @@ body {
   
   .feature-kitten {
     padding-top: 60px;
-    background-image: url("img/");
+    background-image: url("../img/234.jpg");
   }
   
   .feature-cat {
     padding-top: 60px;
-    background-image: url("img/");
+    background-image: url("../img/345.jpg");
   }
   
   .feature-train {
     padding-top: 60px;
-    background-image: url("img/");
+    background-image: url("../img/456.jpg");
   }
   
   .skills-list {
