@@ -28,19 +28,19 @@ body {
   .skills-item {
     margin-bottom: 15px;
     padding-left: 20px;
-    border-left: 10px solid #c4c4c4;
+    border-left: 10px solid #beb5b5;
     color: #999999;
   }
   
   .standard {
-    border-color: #ffc5b3;
+    border-color: #9c959c;
     color: #666666;
   }
   
   /* Add a rule for the vip class here */
   
   .vip {
-    border-color: #ff5a26;
+    border-color: #696767;
     color: #000000;
   }
   
