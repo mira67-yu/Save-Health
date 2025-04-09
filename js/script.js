@@ -20,8 +20,7 @@ const arrayOfAdvice = ["Пий достатньо води — мінімум 1.
   "Використовуй фітнес-трекери для відстеження активності."
 ]
 
-document.getElementById('btn_advice').addEventListener('click' ,() =>{
-    console.log('Button clicked');
+document.getElementById('btn_advice').addEventListener('click', () => {
     let index = Math.floor(Math.random() * arrayOfAdvice.length);
-    document.getElementById('p-advice'). innerText = arrayOfAdvice[index];
-})
+    document.getElementById('p-advice').innerText = arrayOfAdvice[index];
+  });
